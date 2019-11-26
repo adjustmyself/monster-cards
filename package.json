@@ -2,7 +2,7 @@
   "name": "monster-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adjustmyself.github.io/monster-cards",
+  "homepage": "https://adjustmysgitelf.github.io/monster-cards",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
